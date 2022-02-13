@@ -1,0 +1,20 @@
+{
+"collection":"student",
+"author":"Shailesh prajapati",
+"date":"27-jan-2022",
+"time":"10:02:02 Am",
+"data":[
+        {
+		"roll":101,
+		"name":"Shailesh prajapati",
+		"sub":"computer",
+		"marks":60
+		},
+		{
+		"roll":101,
+		"name":"Shailesh prajapati",
+		"sub":"computer",
+		"marks":60
+		}
+		]
+		}
