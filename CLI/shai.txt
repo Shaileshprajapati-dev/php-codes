@@ -1,0 +1,5 @@
+techpile techpileThe PHP development team announces 
+ the immediate availability of 
+	 PHP 8.1.0. This release marks the latest minor release of the PHP language.
+     PHP 8.1 comes with numerous improvements and new features such as: technology lucknow
+     
